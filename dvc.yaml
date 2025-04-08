@@ -1,0 +1,15 @@
+stages:
+  prepare:
+    cmd: python Lab3/create_features.py
+    deps:
+      - Lab3/data/adult.data
+      - Lab3/data/adult.test
+      - Lab3/create_features.py
+    outs:
+      - Lab3/data/pipeline.pkl
+      - Lab3/data/processed_train_data.csv
+      - Lab3/data/processed_test_data.csv
+    params: 
+      - features.chi2percentile
+      - features.train_path
+      - features.test_path

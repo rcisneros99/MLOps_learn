@@ -11,8 +11,8 @@ col_names = ['age', 'workclass', 'fnlwgt', 'education', 'education-num', 'marita
 'occupation', 'relationship', 'race', 'sex', 'capital-gain', 'capital-loss', 'hours-per-week', 'native-country', 'y']
 
 # Load data
-train_data = pd.read_csv('data/adult.data', names=col_names)
-test_data = pd.read_csv('data/adult.test', names=col_names)
+train_data = pd.read_csv('Lab3/data/adult.data', names=col_names)
+test_data = pd.read_csv('Lab3/data/adult.test', names=col_names)
 
 # Encode and impute values for target variable
 train_y, test_y = train_data['y'], test_data['y']
@@ -65,9 +65,9 @@ test_new = pd.DataFrame.sparse.from_spmatrix(test_new)
 train_new['y'] = train_y
 test_new['y'] = test_y
 
-train_new.to_csv('data/processed_train_data.csv')
-test_new.to_csv('data/processed_test_data.csv')
+train_new.to_csv('Lab3/data/processed_train_data.csv')
+test_new.to_csv('Lab3/data/processed_test_data.csv')
 
 # Save pipeline
-with open('data/pipeline.pkl','wb') as f:
+with open('Lab3/data/pipeline.pkl','wb') as f:
     pickle.dump(clf,f)

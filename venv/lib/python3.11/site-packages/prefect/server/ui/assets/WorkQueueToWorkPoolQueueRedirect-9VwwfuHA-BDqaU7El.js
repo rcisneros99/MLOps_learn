@@ -1,0 +1,2 @@
+import{d as t,W as n,h as k,i as l,u as m,V as p}from"./index-DLsNpRDP.js";const i=t({__name:"WorkQueueToWorkPoolQueueRedirect",setup(w){const u=n("workQueueId"),s=k(),a=l(s.workQueues.getWorkQueue,[u]),o=m(),r=p();return a.promise().then(({response:e})=>{if(!e.workPoolName){o.replace(r.workPools());return}o.replace(r.workPoolQueue(e.workPoolName,e.name))}),()=>{}}});export{i as default};
+//# sourceMappingURL=WorkQueueToWorkPoolQueueRedirect-9VwwfuHA-BDqaU7El.js.map
