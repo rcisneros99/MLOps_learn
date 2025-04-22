@@ -1,0 +1,7 @@
+[MFLOG|0|2025-04-22T02:35:33.967413Z|runtime|884fb3a3-bb48-4db2-81be-e92b902648cf]<flow WineClassificationFlow step choose_model> failed:
+[MFLOG|0|2025-04-22T02:35:33.971993Z|runtime|ca0d16ba-e9ec-46b0-9035-af0ef8fcf258]    Unhandled artifacts in merge:
+[MFLOG|0|2025-04-22T02:35:33.972087Z|runtime|1beffb3b-c6f2-49e8-9098-1ab9aa7d6865]    Step choose_model cannot merge the following artifacts due to them having conflicting values:
+[MFLOG|0|2025-04-22T02:35:34.154023Z|runtime|a44cf882-0f43-49fc-963d-76a71149a292]    [predictions, model_type, model, metrics, cv_score, best_params, predictions, model_type, model, metrics, cv_score, best_params].
+[MFLOG|0|2025-04-22T02:35:34.154174Z|runtime|538c2b53-60f6-4723-b407-f15f35d0bf6d]    To remedy this issue, be sure to explicitly set those artifacts (using self.<artifact_name> = ...) prior to calling merge_artifacts.
+[MFLOG|0|2025-04-22T02:35:34.154221Z|runtime|6c739ae7-729f-4aa3-8b91-c6c0146f7f15]
+[MFLOG|0|2025-04-22T02:35:34.154653Z|runtime|ab5d8c4d-580a-4e62-9507-cc8a72252700]Task failed.

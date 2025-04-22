@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/295670891649948741/573f5b36f44c49bc8a0bbe0e92dd5c09/artifacts
+end_time: 1745289409391
+entry_point_name: ''
+experiment_id: '295670891649948741'
+lifecycle_stage: active
+run_id: 573f5b36f44c49bc8a0bbe0e92dd5c09
+run_name: best-random_forest-model
+run_uuid: 573f5b36f44c49bc8a0bbe0e92dd5c09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745289407088
+status: 3
+tags: []
+user_id: rcisneros

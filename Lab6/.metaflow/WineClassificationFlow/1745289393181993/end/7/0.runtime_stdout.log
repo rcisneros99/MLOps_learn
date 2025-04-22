@@ -1,0 +1,10 @@
+[MFLOG|0|2025-04-22T02:36:50.888234Z|runtime|f42aa1c6-84ed-4b3a-84e6-4aea64d07b1f]
+[MFLOG|0|2025-04-22T02:36:50.888433Z|runtime|a759b48f-98ec-4dca-980e-6d78a712d984]Training Flow Complete
+[MFLOG|0|2025-04-22T02:36:50.888509Z|runtime|4b9099d7-d67a-4ec7-ac33-c6d5586e623a]Best model: random_forest
+[MFLOG|0|2025-04-22T02:36:50.888695Z|runtime|434da599-7a6e-4a80-bb16-cc9dd4421d1c]Test accuracy: 1.0000
+[MFLOG|0|2025-04-22T02:36:50.888783Z|runtime|1588c1f6-ba00-4ee5-a6aa-2d34bedd245b]MLflow run ID: 573f5b36f44c49bc8a0bbe0e92dd5c09
+[MFLOG|0|2025-04-22T02:36:51.018480Z|runtime|cb4ff420-2a5b-43d2-a4a1-7f99a2c28b64]
+[MFLOG|0|2025-04-22T02:36:51.018644Z|runtime|cea757d1-4979-40cc-b1a1-627ceed3c2aa]All models comparison:
+[MFLOG|0|2025-04-22T02:36:51.018769Z|runtime|0d4c4d33-ba08-4159-b534-31910c87afc1]1. random_forest - Accuracy: 1.0000, CV: 0.9858
+[MFLOG|0|2025-04-22T02:36:51.173213Z|runtime|0eab2328-f632-423c-8ea5-1b030b8a30eb]2. svm - Accuracy: 1.0000, CV: 0.9437
+[MFLOG|0|2025-04-22T02:36:51.173318Z|runtime|34c3331b-696e-472b-8fed-483c2c571712]3. knn - Accuracy: 0.8333, CV: 0.7466

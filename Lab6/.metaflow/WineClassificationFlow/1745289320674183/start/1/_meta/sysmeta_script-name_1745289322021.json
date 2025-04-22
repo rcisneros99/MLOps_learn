@@ -1,0 +1,1 @@
+{"flow_id": "WineClassificationFlow", "run_number": "1745289320674183", "step_name": "start", "task_id": "1", "field_name": "script-name", "type": "script-name", "value": "trainingflow.py", "tags": ["attempt_id:0"], "user_name": "rcisneros", "ts_epoch": 1745289322021}

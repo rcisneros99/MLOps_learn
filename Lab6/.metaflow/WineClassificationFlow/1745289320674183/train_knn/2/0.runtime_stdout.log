@@ -1,0 +1,3 @@
+[MFLOG|0|2025-04-22T02:35:30.839562Z|runtime|a4c773b0-44d2-4acc-9531-6da864695be1]KNN best parameters: {'n_neighbors': 3, 'p': 1, 'weights': 'distance'}
+[MFLOG|0|2025-04-22T02:35:31.470533Z|runtime|36cf12ea-af66-43e7-bdcd-cd3b75742536]KNN CV accuracy: 0.7466
+[MFLOG|0|2025-04-22T02:35:31.470766Z|runtime|7281715a-a7b4-421e-b508-4183a4a2f731]KNN test accuracy: 0.8333

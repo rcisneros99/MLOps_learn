@@ -1,0 +1,1 @@
+{"run_number": "1745289320674183", "step_name": "train_svm", "flow_id": "WineClassificationFlow", "user_name": "rcisneros", "tags": [], "system_tags": ["metaflow_version:2.15.9", "python_version:3.11.9", "user:rcisneros", "runtime:dev"], "ts_epoch": 1745289322393}

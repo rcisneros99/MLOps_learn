@@ -1,0 +1,1 @@
+{"flow_id": "WineClassificationFlow", "run_number": "1745289393181993", "step_name": "train_svm", "task_id": "3", "field_name": "metaflow_version", "type": "metaflow_version", "value": "2.15.9", "tags": ["attempt_id:0"], "user_name": "rcisneros", "ts_epoch": 1745289394795}
