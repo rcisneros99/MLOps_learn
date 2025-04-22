@@ -1,1 +1,4 @@
 sa-private-key.json
+sa-private-key.json
+.metaflow/
+*/.metaflow/
