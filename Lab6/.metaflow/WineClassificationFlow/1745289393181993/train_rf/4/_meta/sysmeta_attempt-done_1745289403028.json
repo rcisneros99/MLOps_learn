@@ -1,0 +1,1 @@
+{"flow_id": "WineClassificationFlow", "run_number": "1745289393181993", "step_name": "train_rf", "task_id": "4", "field_name": "attempt-done", "type": "attempt-done", "value": "0", "tags": ["attempt_id:0"], "user_name": "rcisneros", "ts_epoch": 1745289403028}

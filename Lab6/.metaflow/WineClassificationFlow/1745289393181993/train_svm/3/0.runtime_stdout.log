@@ -1,0 +1,3 @@
+[MFLOG|0|2025-04-22T02:36:43.588373Z|runtime|ab709519-2cf1-44d3-a378-fd4231f9fb20]SVM best parameters: {'C': 0.1, 'gamma': 'scale', 'kernel': 'linear'}
+[MFLOG|0|2025-04-22T02:36:43.892541Z|runtime|247df85a-a4c0-444f-952d-3ce3e533f699]SVM CV accuracy: 0.9437
+[MFLOG|0|2025-04-22T02:36:43.892680Z|runtime|66540c11-3fb2-420e-92af-59d26a56aaad]SVM test accuracy: 1.0000

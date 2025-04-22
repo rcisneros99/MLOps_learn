@@ -1,0 +1,7 @@
+[MFLOG|0|2025-04-22T02:36:46.995205Z|runtime|54b14133-8ac3-4770-81e7-f0296831c06f]2025/04/21 19:36:46 INFO mlflow.tracking.fluent: Experiment with name 'wine-classification-metaflow' does not exist. Creating a new experiment.
+[MFLOG|0|2025-04-22T02:36:49.376826Z|runtime|a94792d0-41ff-4b38-998d-0972940b9008]Successfully registered model 'wine-classification-model'.
+[MFLOG|0|2025-04-22T02:36:49.390451Z|runtime|503c4661-3fe8-403e-8004-9a00380659f1]2025/04/21 19:36:49 INFO mlflow.store.model_registry.abstract_store: Waiting up to 300 seconds for model version to finish creation. Model name: wine-classification-model, version 1
+[MFLOG|0|2025-04-22T02:36:49.390527Z|runtime|bb22cb02-4b24-4e4b-88b7-e3ae5d8e2533]Created version '1' of model 'wine-classification-model'.
+[MFLOG|0|2025-04-22T02:36:49.390566Z|runtime|332a1af3-11ad-460f-88ea-81a07b0e1af7]2025/04/21 19:36:49 WARNING mlflow.models.model: Input example should be provided to infer model signature if the model signature is not provided when logging the model.
+[MFLOG|0|2025-04-22T02:36:49.394956Z|runtime|cfb5c48d-aea8-4546-83da-2bd82d3dc7c9]2025/04/21 19:36:49 INFO mlflow.tracking._tracking_service.client: 🏃 View run best-random_forest-model at: http://127.0.0.1:5000/#/experiments/295670891649948741/runs/573f5b36f44c49bc8a0bbe0e92dd5c09.
+[MFLOG|0|2025-04-22T02:36:49.395018Z|runtime|9c62439f-93f4-46ac-ad99-6fdce19e5253]2025/04/21 19:36:49 INFO mlflow.tracking._tracking_service.client: 🧪 View experiment at: http://127.0.0.1:5000/#/experiments/295670891649948741.

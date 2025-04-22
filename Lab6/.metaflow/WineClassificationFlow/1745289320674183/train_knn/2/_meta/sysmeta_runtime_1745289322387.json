@@ -1,0 +1,1 @@
+{"flow_id": "WineClassificationFlow", "run_number": "1745289320674183", "step_name": "train_knn", "task_id": "2", "field_name": "runtime", "type": "runtime", "value": "dev", "tags": ["attempt_id:0"], "user_name": "rcisneros", "ts_epoch": 1745289322387}

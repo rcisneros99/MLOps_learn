@@ -1,0 +1,3 @@
+[MFLOG|0|2025-04-22T02:36:43.025423Z|runtime|2be05944-c047-4137-9f6e-ed2645ac591a]Random Forest best parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+[MFLOG|0|2025-04-22T02:36:43.379450Z|runtime|446c014e-71d2-49b3-8686-6f1f66508d27]Random Forest CV accuracy: 0.9858
+[MFLOG|0|2025-04-22T02:36:43.379613Z|runtime|2ecea587-0114-4699-b1b1-b9a7d198de53]Random Forest test accuracy: 1.0000

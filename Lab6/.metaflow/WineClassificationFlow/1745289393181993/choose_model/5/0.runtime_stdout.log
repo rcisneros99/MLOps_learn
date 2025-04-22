@@ -1,0 +1,7 @@
+[MFLOG|0|2025-04-22T02:36:45.267884Z|runtime|03efd877-aa3d-4535-a416-d8ee1ebe1bc6]
+[MFLOG|0|2025-04-22T02:36:45.442101Z|runtime|c01236c5-7419-4731-99ad-28ab0e116ef2]Best Model:
+[MFLOG|0|2025-04-22T02:36:45.442241Z|runtime|5d40b7ae-40ea-49c3-8a32-da7ecba17e2a]Type: random_forest
+[MFLOG|0|2025-04-22T02:36:45.442287Z|runtime|4bdb7c8a-567b-4d6a-875a-46bc3a1c8d5a]Parameters: {'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}
+[MFLOG|0|2025-04-22T02:36:45.442320Z|runtime|923edb46-0ff8-4ee2-994b-e2f46c884acd]CV Accuracy: 0.9858
+[MFLOG|0|2025-04-22T02:36:45.442348Z|runtime|c4142774-f039-4e48-a09b-58e25a2e3a21]Test Accuracy: 1.0000
+[MFLOG|0|2025-04-22T02:36:45.442375Z|runtime|d01347c4-a947-4f8f-b97d-0de17760b188]F1 Score: 1.0000

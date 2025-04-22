@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745289409388
+current_stage: None
+description: ''
+last_updated_timestamp: 1745289409388
+name: wine-classification-model
+run_id: 573f5b36f44c49bc8a0bbe0e92dd5c09
+run_link: ''
+source: mlflow-artifacts:/295670891649948741/573f5b36f44c49bc8a0bbe0e92dd5c09/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/295670891649948741/573f5b36f44c49bc8a0bbe0e92dd5c09/artifacts/model
+user_id: null
+version: 1
